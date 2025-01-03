@@ -1,4 +1,4 @@
-package santander.santander_dev_week.model;
+package santander.santander_dev_week.domain.model;
 
 import jakarta.persistence.Entity;
 
